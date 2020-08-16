@@ -2,7 +2,7 @@
 unnamed bc i dont know what to call it yet, sure it will come to me during wordbuilding.
 
 ## consonants (modified IPA chart)
-<img src="https://github.com/Vortetty/currently-unnamed-language/blob/master/currentipaCONS.png" width="500" />
+<img src="https://github.com/Vortetty/currently-unnamed-language/blob/master/currentipaCONS.png" width="1000" />
 
 <sup><sub>image is CC-BY-SA</sub></sup>
 
