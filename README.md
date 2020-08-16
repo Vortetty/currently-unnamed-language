@@ -2,10 +2,10 @@
 unnamed bc i dont know what to call it yet, sure it will come to me during wordbuilding.
 
 ## consonants (modified IPA chart)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/Vortetty/currently-unnamed-language/blob/master/currentipaCONS.png" width="500" />
+<img src="https://github.com/Vortetty/currently-unnamed-language/blob/master/currentipaCONS.png" width="500" />
 
 ## vowels (modified IPA chart)
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://github.com/Vortetty/currently-unnamed-language/blob/master/currentipa.png" width="500" />
+<img src="https://github.com/Vortetty/currently-unnamed-language/blob/master/currentipa.png" width="500" />
 
 #### wiki will have more info
 ###### goal is an elven-like language. as such i may use words from other already made elven languages to assist me 
