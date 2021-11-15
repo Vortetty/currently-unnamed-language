@@ -12,7 +12,7 @@ unnamed bc i dont know what to call it yet, sure it will come to me during wordb
 <sup><sub>image is CC-BY-SA</sub></sup>
 
 #### wiki will have more info
-###### goal is an elven-like language. as such i may use words from other already made elven languages to assist me 
+###### goal is a smoother/softer sounding language, mainly meant to be spoken not typed.
 
 
 ### License
